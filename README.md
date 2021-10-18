@@ -13,7 +13,7 @@ Genvo's Phishing Site Generator has over 40+ websites!
 
 - HTTPS / HTTP supported
 
-- Create a custom password to view the .txt file with the data
+- Spoof your site (ex: https://instagram.com@is.gd/BanditWC)
 
 ![alt text](https://i.gyazo.com/7da6067e97ff4030ed9ece502f64bbe5.gif)
 
