@@ -9,7 +9,7 @@ Genvo is a tool developed to build a phishing site, without any hosting or code.
 
 Genvo's Phishing Site Generator has over 40+ websites!
 
-- Host your site for free (via Cloudflared, NGROK or Localtunnel)
+- Host for FREE (Hosted on localhost and exposed via a Cloudflared, NGROK or Localtunnel)
 
 - HTTPS / HTTP supported
 
